@@ -1,0 +1,215 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: api-docs
+  name: Explore the APIs | Legerity
+  href: api/index.html
+- uid: available-packages
+  name: Installing packages | Legerity for Uno
+  href: articles/available-packages.html
+- uid: building-with-legerity
+  name: Writing UI tests | Legerity for Uno
+  href: articles/building-with-legerity.html
+- uid: front-page
+  name: Legerity for Uno Documentation
+  href: index.html
+- uid: Legerity.Uno.Web.Elements
+  name: Legerity.Uno.Web.Elements
+  href: api/Legerity.Uno.Web.Elements.html
+  commentId: N:Legerity.Uno.Web.Elements
+  fullName: Legerity.Uno.Web.Elements
+  nameWithType: Legerity.Uno.Web.Elements
+- uid: Legerity.Uno.Web.Elements.AppBarButton
+  name: AppBarButton
+  href: api/Legerity.Uno.Web.Elements.AppBarButton.html
+  commentId: T:Legerity.Uno.Web.Elements.AppBarButton
+  fullName: Legerity.Uno.Web.Elements.AppBarButton
+  nameWithType: AppBarButton
+- uid: Legerity.Uno.Web.Elements.AppBarButton.#ctor(IWebElement)
+  name: AppBarButton(IWebElement)
+  href: api/Legerity.Uno.Web.Elements.AppBarButton.html#Legerity_Uno_Web_Elements_AppBarButton__ctor_IWebElement_
+  commentId: M:Legerity.Uno.Web.Elements.AppBarButton.#ctor(IWebElement)
+  fullName: Legerity.Uno.Web.Elements.AppBarButton.AppBarButton(IWebElement)
+  nameWithType: AppBarButton.AppBarButton(IWebElement)
+- uid: Legerity.Uno.Web.Elements.AppBarButton.#ctor(RemoteWebElement)
+  name: AppBarButton(RemoteWebElement)
+  href: api/Legerity.Uno.Web.Elements.AppBarButton.html#Legerity_Uno_Web_Elements_AppBarButton__ctor_RemoteWebElement_
+  commentId: M:Legerity.Uno.Web.Elements.AppBarButton.#ctor(RemoteWebElement)
+  fullName: Legerity.Uno.Web.Elements.AppBarButton.AppBarButton(RemoteWebElement)
+  nameWithType: AppBarButton.AppBarButton(RemoteWebElement)
+- uid: Legerity.Uno.Web.Elements.AppBarButton.#ctor*
+  name: AppBarButton
+  href: api/Legerity.Uno.Web.Elements.AppBarButton.html#Legerity_Uno_Web_Elements_AppBarButton__ctor_
+  commentId: Overload:Legerity.Uno.Web.Elements.AppBarButton.#ctor
+  isSpec: "True"
+  fullName: Legerity.Uno.Web.Elements.AppBarButton.AppBarButton
+  nameWithType: AppBarButton.AppBarButton
+- uid: Legerity.Uno.Web.Elements.AppBarButton.op_Implicit(RemoteWebElement)~Legerity.Uno.Web.Elements.AppBarButton
+  name: Implicit(RemoteWebElement to AppBarButton)
+  href: api/Legerity.Uno.Web.Elements.AppBarButton.html#Legerity_Uno_Web_Elements_AppBarButton_op_Implicit_RemoteWebElement__Legerity_Uno_Web_Elements_AppBarButton
+  commentId: M:Legerity.Uno.Web.Elements.AppBarButton.op_Implicit(RemoteWebElement)~Legerity.Uno.Web.Elements.AppBarButton
+  name.vb: Widening(RemoteWebElement to AppBarButton)
+  fullName: Legerity.Uno.Web.Elements.AppBarButton.Implicit(RemoteWebElement to Legerity.Uno.Web.Elements.AppBarButton)
+  fullName.vb: Legerity.Uno.Web.Elements.AppBarButton.Widening(RemoteWebElement to Legerity.Uno.Web.Elements.AppBarButton)
+  nameWithType: AppBarButton.Implicit(RemoteWebElement to AppBarButton)
+  nameWithType.vb: AppBarButton.Widening(RemoteWebElement to AppBarButton)
+- uid: Legerity.Uno.Web.Elements.AppBarButton.op_Implicit*
+  name: Implicit
+  href: api/Legerity.Uno.Web.Elements.AppBarButton.html#Legerity_Uno_Web_Elements_AppBarButton_op_Implicit_
+  commentId: Overload:Legerity.Uno.Web.Elements.AppBarButton.op_Implicit
+  isSpec: "True"
+  name.vb: Widening
+  fullName: Legerity.Uno.Web.Elements.AppBarButton.Implicit
+  fullName.vb: Legerity.Uno.Web.Elements.AppBarButton.Widening
+  nameWithType: AppBarButton.Implicit
+  nameWithType.vb: AppBarButton.Widening
+- uid: Legerity.Uno.Web.Elements.AppBarButton.WindowsType
+  name: WindowsType
+  href: api/Legerity.Uno.Web.Elements.AppBarButton.html#Legerity_Uno_Web_Elements_AppBarButton_WindowsType
+  commentId: F:Legerity.Uno.Web.Elements.AppBarButton.WindowsType
+  fullName: Legerity.Uno.Web.Elements.AppBarButton.WindowsType
+  nameWithType: AppBarButton.WindowsType
+- uid: Legerity.Uno.Web.Extensions
+  name: Legerity.Uno.Web.Extensions
+  href: api/Legerity.Uno.Web.Extensions.html
+  commentId: N:Legerity.Uno.Web.Extensions
+  fullName: Legerity.Uno.Web.Extensions
+  nameWithType: Legerity.Uno.Web.Extensions
+- uid: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions
+  name: RemoteWebDriverExtensions
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.html
+  commentId: T:Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions
+  nameWithType: RemoteWebDriverExtensions
+- uid: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByAutomationId(RemoteWebDriver,System.String)
+  name: FindElementByAutomationId(RemoteWebDriver, String)
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebDriverExtensions_FindElementByAutomationId_RemoteWebDriver_System_String_
+  commentId: M:Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByAutomationId(RemoteWebDriver,System.String)
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByAutomationId(RemoteWebDriver, System.String)
+  nameWithType: RemoteWebDriverExtensions.FindElementByAutomationId(RemoteWebDriver, String)
+- uid: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByAutomationId*
+  name: FindElementByAutomationId
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebDriverExtensions_FindElementByAutomationId_
+  commentId: Overload:Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByAutomationId
+  isSpec: "True"
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByAutomationId
+  nameWithType: RemoteWebDriverExtensions.FindElementByAutomationId
+- uid: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlName(RemoteWebDriver,System.String)
+  name: FindElementByXamlName(RemoteWebDriver, String)
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebDriverExtensions_FindElementByXamlName_RemoteWebDriver_System_String_
+  commentId: M:Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlName(RemoteWebDriver,System.String)
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlName(RemoteWebDriver, System.String)
+  nameWithType: RemoteWebDriverExtensions.FindElementByXamlName(RemoteWebDriver, String)
+- uid: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlName*
+  name: FindElementByXamlName
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebDriverExtensions_FindElementByXamlName_
+  commentId: Overload:Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlName
+  isSpec: "True"
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlName
+  nameWithType: RemoteWebDriverExtensions.FindElementByXamlName
+- uid: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlType(RemoteWebDriver,System.String)
+  name: FindElementByXamlType(RemoteWebDriver, String)
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebDriverExtensions_FindElementByXamlType_RemoteWebDriver_System_String_
+  commentId: M:Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlType(RemoteWebDriver,System.String)
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlType(RemoteWebDriver, System.String)
+  nameWithType: RemoteWebDriverExtensions.FindElementByXamlType(RemoteWebDriver, String)
+- uid: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlType*
+  name: FindElementByXamlType
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebDriverExtensions_FindElementByXamlType_
+  commentId: Overload:Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlType
+  isSpec: "True"
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebDriverExtensions.FindElementByXamlType
+  nameWithType: RemoteWebDriverExtensions.FindElementByXamlType
+- uid: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions
+  name: RemoteWebElementExtensions
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.html
+  commentId: T:Legerity.Uno.Web.Extensions.RemoteWebElementExtensions
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions
+  nameWithType: RemoteWebElementExtensions
+- uid: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByAutomationId(RemoteWebElement,System.String)
+  name: FindElementByAutomationId(RemoteWebElement, String)
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebElementExtensions_FindElementByAutomationId_RemoteWebElement_System_String_
+  commentId: M:Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByAutomationId(RemoteWebElement,System.String)
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByAutomationId(RemoteWebElement, System.String)
+  nameWithType: RemoteWebElementExtensions.FindElementByAutomationId(RemoteWebElement, String)
+- uid: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByAutomationId*
+  name: FindElementByAutomationId
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebElementExtensions_FindElementByAutomationId_
+  commentId: Overload:Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByAutomationId
+  isSpec: "True"
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByAutomationId
+  nameWithType: RemoteWebElementExtensions.FindElementByAutomationId
+- uid: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlName(RemoteWebElement,System.String)
+  name: FindElementByXamlName(RemoteWebElement, String)
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebElementExtensions_FindElementByXamlName_RemoteWebElement_System_String_
+  commentId: M:Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlName(RemoteWebElement,System.String)
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlName(RemoteWebElement, System.String)
+  nameWithType: RemoteWebElementExtensions.FindElementByXamlName(RemoteWebElement, String)
+- uid: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlName*
+  name: FindElementByXamlName
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebElementExtensions_FindElementByXamlName_
+  commentId: Overload:Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlName
+  isSpec: "True"
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlName
+  nameWithType: RemoteWebElementExtensions.FindElementByXamlName
+- uid: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlType(RemoteWebElement,System.String)
+  name: FindElementByXamlType(RemoteWebElement, String)
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebElementExtensions_FindElementByXamlType_RemoteWebElement_System_String_
+  commentId: M:Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlType(RemoteWebElement,System.String)
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlType(RemoteWebElement, System.String)
+  nameWithType: RemoteWebElementExtensions.FindElementByXamlType(RemoteWebElement, String)
+- uid: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlType*
+  name: FindElementByXamlType
+  href: api/Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.html#Legerity_Uno_Web_Extensions_RemoteWebElementExtensions_FindElementByXamlType_
+  commentId: Overload:Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlType
+  isSpec: "True"
+  fullName: Legerity.Uno.Web.Extensions.RemoteWebElementExtensions.FindElementByXamlType
+  nameWithType: RemoteWebElementExtensions.FindElementByXamlType
+- uid: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions
+  name: WebElementWrapperExtensions
+  href: api/Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.html
+  commentId: T:Legerity.Uno.Web.Extensions.WebElementWrapperExtensions
+  fullName: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions
+  nameWithType: WebElementWrapperExtensions
+- uid: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByAutomationId(WebElementWrapper,System.String)
+  name: FindElementByAutomationId(WebElementWrapper, String)
+  href: api/Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.html#Legerity_Uno_Web_Extensions_WebElementWrapperExtensions_FindElementByAutomationId_WebElementWrapper_System_String_
+  commentId: M:Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByAutomationId(WebElementWrapper,System.String)
+  fullName: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByAutomationId(WebElementWrapper, System.String)
+  nameWithType: WebElementWrapperExtensions.FindElementByAutomationId(WebElementWrapper, String)
+- uid: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByAutomationId*
+  name: FindElementByAutomationId
+  href: api/Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.html#Legerity_Uno_Web_Extensions_WebElementWrapperExtensions_FindElementByAutomationId_
+  commentId: Overload:Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByAutomationId
+  isSpec: "True"
+  fullName: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByAutomationId
+  nameWithType: WebElementWrapperExtensions.FindElementByAutomationId
+- uid: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlName(WebElementWrapper,System.String)
+  name: FindElementByXamlName(WebElementWrapper, String)
+  href: api/Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.html#Legerity_Uno_Web_Extensions_WebElementWrapperExtensions_FindElementByXamlName_WebElementWrapper_System_String_
+  commentId: M:Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlName(WebElementWrapper,System.String)
+  fullName: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlName(WebElementWrapper, System.String)
+  nameWithType: WebElementWrapperExtensions.FindElementByXamlName(WebElementWrapper, String)
+- uid: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlName*
+  name: FindElementByXamlName
+  href: api/Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.html#Legerity_Uno_Web_Extensions_WebElementWrapperExtensions_FindElementByXamlName_
+  commentId: Overload:Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlName
+  isSpec: "True"
+  fullName: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlName
+  nameWithType: WebElementWrapperExtensions.FindElementByXamlName
+- uid: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlType(WebElementWrapper,System.String)
+  name: FindElementByXamlType(WebElementWrapper, String)
+  href: api/Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.html#Legerity_Uno_Web_Extensions_WebElementWrapperExtensions_FindElementByXamlType_WebElementWrapper_System_String_
+  commentId: M:Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlType(WebElementWrapper,System.String)
+  fullName: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlType(WebElementWrapper, System.String)
+  nameWithType: WebElementWrapperExtensions.FindElementByXamlType(WebElementWrapper, String)
+- uid: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlType*
+  name: FindElementByXamlType
+  href: api/Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.html#Legerity_Uno_Web_Extensions_WebElementWrapperExtensions_FindElementByXamlType_
+  commentId: Overload:Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlType
+  isSpec: "True"
+  fullName: Legerity.Uno.Web.Extensions.WebElementWrapperExtensions.FindElementByXamlType
+  nameWithType: WebElementWrapperExtensions.FindElementByXamlType
+- uid: legerity-intro
+  name: Overview | Legerity for Uno
+  href: articles/intro.html
